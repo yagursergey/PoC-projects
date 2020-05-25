@@ -1,0 +1,4 @@
+stripe:
+  keys:
+    public: pk_test_nUWrb3zm4XlS8GdNPSC9qk5t00zY4NnnFh
+    secret: sk_test_NpVm3ycVJKwVILAMUp02lrJc00q6Oyjg7s
